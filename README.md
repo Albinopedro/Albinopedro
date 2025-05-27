@@ -1,7 +1,7 @@
 # Olá! 👋 Eu sou Albino
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Desenvolvedor+Frontend;Estudante+de+Telecomunica%C3%A7%C3%B5es;Apaixonado+por+UIs+e+Experi%C3%AAncia+do+Usu%C3%A1rio;De+Angola%2C+Luanda" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Desenvolvedor+Frontend;Estudante+de+Telecomunica%C3%A7%C3%B5es;Apaixonado+por+UIs+e+Experi%C3%AAncia+do+Usu%C3%A1rio;De+Angola%2C+Luanda" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mim
@@ -33,10 +33,8 @@ Sou um **desenvolvedor web júnior** apaixonado por criar interfaces de usuário
 
 ## 📈 Estatísticas GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albinopedro&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albinopedro&layout=compact&langs_count=7&theme=react"/>
-</div>
-div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albinopedro&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albinopedro&layout=compact&langs_count=7&theme=react" alt="Top Langs"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albinopedro&theme=react" alt="GitHub Streak"/>
 </div>
 
@@ -44,15 +42,22 @@ div align="center">
 
 Estou sempre aberto para conversas sobre tecnologia, oportunidades de colaboração ou apenas um bate-papo sobre desenvolvimento!
 
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Albinopedro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+<div align="center">
+  <a href="https://github.com/Albinopedro">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Albinopedro&color=blue&style=flat-square&label=Visualizações+do+perfil" alt="Profile views"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Albinopedro&color=blue&style=flat-square&label=Visualizações+do+perfil" alt="Profile views"/>
+</div>
 
 **"Grandes UIs começam com grandes ideias"** ✨
-
-</div>
