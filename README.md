@@ -6,14 +6,14 @@
 
 ## 🚀 Sobre mim
 
-Sou um **desenvolvedor web júnior** apaixonado por criar interfaces de usuário incríveis e intuitivas. Atualmente estudante no **Instituto de Telecomunicações** em Luanda, Angola, focado em desenvolvimento frontend com expertise em **React** e **Laravel**.
+Sou um **desenvolvedor web júnior** apaixonado por criar interfaces de usuário incríveis e intuitivas. Atualmente estudante no **Instituto de Telecomunicações** em Luanda, Angola, com foco em desenvolvimento frontend e expertise em **React** e **Laravel**.
 
-💡 **O que me motiva:** Transformar ideias em experiências digitais envolventes, sempre buscando a melhor experiência do usuário.
+💡 **O que me motiva:** Transformar ideias em experiências digitais envolventes, sempre priorizando a melhor experiência do usuário.
 
 ## 🛠️ Tecnologias & Ferramentas
 
+### Frontend
 <div align="center">
-  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -21,29 +21,37 @@ Sou um **desenvolvedor web júnior** apaixonado por criar interfaces de usuário
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
-  <!-- Backend -->
+</div>
+
+### Backend & Database
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL/MySQL" width="50" height="50"/>
-  <!-- Laravel PNG for better compatibility -->
-  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup.png" alt="Laravel" width="50" height="50"/>
-  <!-- Desktop -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+</div>
+
+### Desktop Development
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-  <!-- Avalonia color official -->
-  <img src="https://avatars.githubusercontent.com/u/16401858?s=200&v=4" alt="Avalonia UI" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <!-- Sistemas e versionamento -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="50" height="50"/>
+</div>
+
+### Sistemas & Versionamento
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  <!-- Ubuntu colorido -->
-  <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
 </div>
 
 ## 🎯 Foco atual
 
 - 🔭 Desenvolvendo interfaces web responsivas e acessíveis
-- 🌱 Aprofundando conhecimentos em **Next.js** e **React** avançado
+- 🌱 Aprofundando conhecimentos em **Next.js** e **React** avançado  
 - 👯 Procurando colaborar em projetos open source
 - 💬 Sempre disposto a conversar sobre **UI/UX** e **desenvolvimento frontend**
+- 🎓 Finalizando estudos em **Telecomunicações**
 
 ## 📚 Além do código
 
@@ -51,16 +59,27 @@ Quando não estou programando, você me encontra:
 - 📖 **Lendo livros** - sempre em busca de conhecimento
 - 💻 **Explorando novas tecnologias** - programação é também meu hobby!
 - 🎨 **Estudando design** - para criar UIs ainda melhores
+- 🌍 **Contribuindo para a tech africana** - ajudando a crescer nossa comunidade
 
 ## 📍 Localização
 
-🌍 **Luanda, Angola** - Contribuindo para o crescimento da tech africana!
+🌍 **Luanda, Angola** - Contribuindo para o crescimento da tecnologia africana!
 
 ## 📈 Estatísticas GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albinopedro&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albinopedro&layout=compact&langs_count=7&theme=react"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albinopedro&theme=react" alt="GitHub Streak"/>
+</div>
+
+## 🏆 Conquistas
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Albinopedro&theme=react&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 ## 🤝 Vamos conectar!
@@ -70,6 +89,12 @@ Estou sempre aberto para conversas sobre tecnologia, oportunidades de colaboraç
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Albinopedro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=Albinopedro&color=blue&style=flat-square&label=Visualizações+do+perfil" alt="Profile views"/>
 
 **"Grandes UIs começam com grandes ideias"** ✨
 
