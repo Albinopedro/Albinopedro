@@ -11,9 +11,6 @@ Sou um **desenvolvedor web júnior** apaixonado por criar interfaces de usuário
 💡 **O que me motiva:** Transformar ideias em experiências digitais envolventes, sempre priorizando a melhor experiência do usuário.
 
 ## 🛠️ Tecnologias & Ferramentas
-
-### Frontend
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -21,46 +18,26 @@ Sou um **desenvolvedor web júnior** apaixonado por criar interfaces de usuário
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
-</div>
-
-### Backend & Database
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-</div>
 
-### Desktop Development
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="50" height="50"/>
-</div>
 
-### Sistemas & Versionamento
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-</div>
 
-## 🎯 Foco atual
-
-- 🔭 Desenvolvendo interfaces web responsivas e acessíveis
-- 🌱 Aprofundando conhecimentos em **Next.js** e **React** avançado  
-- 👯 Procurando colaborar em projetos open source
-- 💬 Sempre disposto a conversar sobre **UI/UX** e **desenvolvimento frontend**
-- 🎓 Finalizando estudos em **Telecomunicações**
 
 ## 📈 Estatísticas GitHub
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albinopedro&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albinopedro&layout=compact&langs_count=7&theme=react"/>
 </div>
-
-<div align="center">
+div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albinopedro&theme=react" alt="GitHub Streak"/>
 </div>
 
