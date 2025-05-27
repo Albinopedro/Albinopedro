@@ -53,18 +53,6 @@ Sou um **desenvolvedor web júnior** apaixonado por criar interfaces de usuário
 - 💬 Sempre disposto a conversar sobre **UI/UX** e **desenvolvimento frontend**
 - 🎓 Finalizando estudos em **Telecomunicações**
 
-## 📚 Além do código
-
-Quando não estou programando, você me encontra:
-- 📖 **Lendo livros** - sempre em busca de conhecimento
-- 💻 **Explorando novas tecnologias** - programação é também meu hobby!
-- 🎨 **Estudando design** - para criar UIs ainda melhores
-- 🌍 **Contribuindo para a tech africana** - ajudando a crescer nossa comunidade
-
-## 📍 Localização
-
-🌍 **Luanda, Angola** - Contribuindo para o crescimento da tecnologia africana!
-
 ## 📈 Estatísticas GitHub
 
 <div align="center">
@@ -74,12 +62,6 @@ Quando não estou programando, você me encontra:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albinopedro&theme=react" alt="GitHub Streak"/>
-</div>
-
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Albinopedro&theme=react&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 ## 🤝 Vamos conectar!
