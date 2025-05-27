@@ -46,10 +46,10 @@ Estou sempre aberto para conversas sobre tecnologia, oportunidades de colaboraç
   <a href="https://github.com/Albinopedro">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/albinopedro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="mailto:albinoraulpedro4@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
