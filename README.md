@@ -48,15 +48,6 @@ Sou um **desenvolvedor web júnior** apaixonado por criar interfaces de usuário
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albinopedro&theme=tokyo-night&hide_border=true" alt="Gráfico de Atividade"/>
 </div>
 
-## 💼 Projetos em Destaque
-
-<div align="center">
-  
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Albinopedro&repo=seu-projeto-1&theme=tokyonight&hide_border=true)](https://github.com/Albinopedro/seu-projeto-1)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Albinopedro&repo=seu-projeto-2&theme=tokyonight&hide_border=true)](https://github.com/Albinopedro/seu-projeto-2)
-  
-</div>
-
 ## 🏆 Conquistas GitHub
 
 <div align="center">
@@ -70,12 +61,8 @@ Sou um **desenvolvedor web júnior** apaixonado por criar interfaces de usuário
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Albinopedro)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albinopedro/)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albinoraulpedro4@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
   
 </div>
-
-## 📍 Localização
-**Luanda, Angola** 🇦🇴
 
 ---
 
@@ -83,6 +70,5 @@ Sou um **desenvolvedor web júnior** apaixonado por criar interfaces de usuário
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Albinopedro&color=blueviolet&style=for-the-badge&label=VISUALIZAÇÕES)
   
-  **"Código é poesia, e cada linha conta uma história."** ✨
   
 </div>
