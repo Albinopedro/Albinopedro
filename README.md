@@ -18,17 +18,6 @@ Sou um **desenvolvedor web júnior** apaixonado por criar interfaces de usuário
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,php,laravel,mysql,cs,c,dotnet,linux,ubuntu,git,github&perline=8" />
 </div>
 
-### Frontend
-- **React** & **Next.js** - Desenvolvimento de interfaces modernas
-- **JavaScript** & **TypeScript** - Linguagens de programação
-- **HTML5** & **CSS3** - Estrutura e estilização
-- **Tailwind CSS** - Framework CSS utilitário
-
-### Backend
-- **PHP** & **Laravel** - Desenvolvimento web server-side
-- **MySQL** - Sistema de gerenciamento de banco de dados
-- **C#** & **.NET** - Desenvolvimento de aplicações
-
 ## 📈 Estatísticas GitHub
 
 <div align="center">
