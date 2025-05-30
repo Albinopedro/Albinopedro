@@ -29,10 +29,6 @@ Sou um **desenvolvedor web júnior** apaixonado por criar interfaces de usuário
 - **MySQL** - Sistema de gerenciamento de banco de dados
 - **C#** & **.NET** - Desenvolvimento de aplicações
 
-### Ferramentas
-- **Linux** & **Ubuntu** - Sistema operacional
-- **Git** & **GitHub** - Controle de versão
-
 ## 📈 Estatísticas GitHub
 
 <div align="center">
