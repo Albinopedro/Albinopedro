@@ -32,11 +32,15 @@ Sou um **desenvolvedor web júnior** apaixonado por criar interfaces de usuário
 </div>
 
 ## 📈 Estatísticas GitHub
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albinopedro&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albinopedro&layout=compact&langs_count=7&theme=react" alt="Top Langs"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albinopedro&theme=react" alt="GitHub Streak"/>
-</div>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Albinopedro&theme=react" alt="GitHub Streak"/>
+</p>
+
 
 ## 🤝 Vamos conectar!
 
@@ -59,5 +63,3 @@ Estou sempre aberto para conversas sobre tecnologia, oportunidades de colaboraç
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Albinopedro&color=blue&style=flat-square&label=Visualizações+do+perfil" alt="Profile views"/>
 </div>
-
-**"Grandes UIs começam com grandes ideias"** ✨
