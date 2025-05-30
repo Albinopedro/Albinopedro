@@ -1,8 +1,10 @@
-# Olá! 👋 Eu sou Albino
+# Olá! 👋 Eu sou Albino Pedro
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Desenvolvedor+Frontend;Estudante+de+Telecomunica%C3%A7%C3%B5es;Apaixonado+por+UIs+e+Experi%C3%AAncia+do+Usu%C3%A1rio;De+Angola%2C+Luanda" alt="Typing SVG" />
-</p>
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Desenvolvedor+Frontend;Estudante+de+Telecomunica%C3%A7%C3%B5es;Apaixonado+por+UIs+e+Experi%C3%AAncia+do+Usu%C3%A1rio;De+Angola%2C+Luanda)
+  
+</div>
 
 ## 🚀 Sobre mim
 
@@ -12,53 +14,75 @@ Sou um **desenvolvedor web júnior** apaixonado por criar interfaces de usuário
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,php,laravel,mysql,cs,c,dotnet,linux,ubuntu,git,github&perline=8" />
+</div>
+
+### Frontend
+- **React** & **Next.js** - Desenvolvimento de interfaces modernas
+- **JavaScript** & **TypeScript** - Linguagens de programação
+- **HTML5** & **CSS3** - Estrutura e estilização
+- **Tailwind CSS** - Framework CSS utilitário
+
+### Backend
+- **PHP** & **Laravel** - Desenvolvimento web server-side
+- **MySQL** - Sistema de gerenciamento de banco de dados
+- **C#** & **.NET** - Desenvolvimento de aplicações
+
+### Ferramentas
+- **Linux** & **Ubuntu** - Sistema operacional
+- **Git** & **GitHub** - Controle de versão
 
 ## 📈 Estatísticas GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albinopedro&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albinopedro&layout=compact&langs_count=7&theme=react" alt="Top Langs"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albinopedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albinopedro&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Albinopedro&theme=react" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albinopedro&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-## 🤝 Vamos conectar!
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albinopedro&theme=tokyo-night&hide_border=true" alt="Gráfico de Atividade"/>
+</div>
 
-<p align="center">
-  <a href="https://github.com/Albinopedro">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/albinopedro/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:albinoraulpedro4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+## 💼 Projetos em Destaque
+
+<div align="center">
+  
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Albinopedro&repo=seu-projeto-1&theme=tokyonight&hide_border=true)](https://github.com/Albinopedro/seu-projeto-1)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Albinopedro&repo=seu-projeto-2&theme=tokyonight&hide_border=true)](https://github.com/Albinopedro/seu-projeto-2)
+  
+</div>
+
+## 🏆 Conquistas GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Albinopedro&theme=tokyonight&no-frame=true&column=7" alt="Troféus GitHub"/>
+</div>
+
+## 🤝 Vamos Conectar!
+
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Albinopedro)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albinopedro/)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albinoraulpedro4@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
+  
+</div>
+
+## 📍 Localização
+**Luanda, Angola** 🇦🇴
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Albinopedro&color=blue&style=flat-square&label=Visualizações+do+perfil" alt="Profile views"/>
-</p>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Albinopedro&color=blueviolet&style=for-the-badge&label=VISUALIZAÇÕES)
+  
+  **"Código é poesia, e cada linha conta uma história."** ✨
+  
+</div>
